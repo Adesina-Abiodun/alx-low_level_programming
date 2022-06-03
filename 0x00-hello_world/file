@@ -1,0 +1,13 @@
+
+========== 4-puts.c ==========
+4-puts.c:2: ERROR: spaces required around that '==' (ctx:ExO)
+4-puts.c:2: ERROR: spaces required around that '==' (ctx:OxO)
+4-puts.c:2: ERROR: spaces required around that '==' (ctx:OxO)
+4-puts.c:2: ERROR: spaces required around that '==' (ctx:OxO)
+4-puts.c:2: ERROR: spaces required around that '==' (ctx:OxW)
+4-puts.c:2: ERROR: spaces required around that '==' (ctx:WxO)
+4-puts.c:2: ERROR: spaces required around that '==' (ctx:OxO)
+4-puts.c:2: ERROR: spaces required around that '==' (ctx:OxO)
+4-puts.c:2: ERROR: spaces required around that '==' (ctx:OxO)
+4-puts.c:2: ERROR: spaces required around that '==' (ctx:OxE)
+total: 10 errors, 0 warnings, 2 lines checked
